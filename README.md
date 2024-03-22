@@ -1,7 +1,9 @@
 
 # Intro to Python and Pandas for Neuroscientists
 
-Taught in March 2024 at the Max Planck Institute of Biological Intelligence.
+Copied by Nick!
+
+Taught in **March 2024** at the Max Planck Institute of Biological Intelligence.
 
 Teachers:
   - Dr. Sangeetha Nandakumar, iBehave Open Technology Support
